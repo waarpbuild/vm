@@ -8,7 +8,7 @@ VM is a shorthand for `Virtual Machine`.
 ## What Is A VM?
 A VM is a visual database that stores at least one thing as a tiny, digital, virtual machine. 
 
-## Who's VM is this?
+## Whose VM is this?
 This is the VM for WaarpBuild. Forks are allowed, but remember to share alike. 
 
 <details>
