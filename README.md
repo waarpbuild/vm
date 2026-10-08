@@ -1,5 +1,7 @@
 # VM
 
+<!--- Mom's note: A virtual machine is like a digital machine on your computer! --->
+
 ## Info 
 VM is a shorthand for `Virtual Machine`.
 
