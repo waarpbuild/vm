@@ -1,0 +1,33 @@
+{
+  "name": "waarpbuild-vm",
+  "version": "0.0.1",
+  "homepage": "https://github.com/waarpbuild/vm",
+  "license": "GPL-3.0-or-later",
+  "private": true,
+  "dependencies": {
+    "audio": "github:waarpbuild/audio",
+    "backend": "github:waarpbuild/backend",
+    "addons": "github:waarpbuild/addons",
+    "i18n": "github:waarpbuild/i18n",
+    "api": "github:waarpbuild/api",
+    "home": "github:waarpbuild/waarpbuild.github.io",
+    "server": "github:waarpbuild/server"
+  },
+  "scripts": {
+    "prepare": "husky",
+    "test": "jest"
+  },
+  "lint-staged": {
+    "*.js": ["eslint --fix", "prettier --write"]
+  },
+  "devDependencies": {
+    "husky": "^9.0.0",
+    "lint-staged": "^15.0.0",
+    "jest": "^29.0.0",
+    "eslint": "^9.0.0",
+    "prettier": "^3.0.0"
+"jest": {
+  "testEnvironment": "jsdom"
+    }
+  }
+}
