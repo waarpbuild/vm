@@ -15,5 +15,6 @@ This is the VM for WaarpBuild. Forks are allowed, but remember to share alike.
 <summary>Want more?</summary>
   
   1. WaarpBuild is a platform that is like Git for blocks. 
+
   2. WaarpBuild is licensed under the GNU GPLv3 license.
 </details>
